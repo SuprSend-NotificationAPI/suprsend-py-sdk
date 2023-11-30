@@ -1,3 +1,5 @@
+theme: jekyll-theme-tactile
+
 # suprsend-py-sdk
 This package can be included in a python3 project to easily integrate
 with `SuprSend` platform.
